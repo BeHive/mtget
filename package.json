@@ -1,0 +1,17 @@
+{
+  "name": "mtget",
+  "version": "1.0.0",
+  "description": "legality validator for deck lists",
+  "main": "index.js",
+  "scripts": {
+    "mtget": "node index.js"
+  },
+  "author": "msanches",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "mtgsdk": "^1.0.0",
+    "table": "^6.8.1"
+  },
+  "keywords": []
+}
